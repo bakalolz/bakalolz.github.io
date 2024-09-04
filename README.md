@@ -10,7 +10,7 @@
 <body>
     <div class="title">
             <h1>SPACEHAGCHURCH.COM</h1>
-            <h3>need grannies in your life? there's a place for you here.</h3>
+            <h3>need grannies in your life? there's a place for you here</h3>
     </div>
     <div class="layerone">
         <h2>
