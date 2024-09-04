@@ -8,13 +8,10 @@
     <link rel="icon" type="image/x-icon" href="pink_creature.png"> 
 </head>
 <body>
-    <div class="title">
+    <div class="title" style="background-color:red;">
             <h1>SPACEHAGCHURCH.COM</h1>
             <h3>need grannies in your life? there's a place for you here.</h3>
     </div>
-    <style type="text/css">
-        .title { background-color: red; }
-    </style>
     <div class="layerone">
         <h2>
             hiiiii
