@@ -13,7 +13,7 @@
             <h3>need grannies in your life? there's a place for you here.</h3>
     </div>
     <style type="text/css">
-        .title { background-image: url(back.png); }
+        .title { background-image: url("back.png"); }
     </style>
     <div class="layerone">
         <h2>
